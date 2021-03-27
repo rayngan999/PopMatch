@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in LobbyViewController.getUserInfo():LobbyViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.answers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileViewController.displayPopUp(_:_:_:):ProfileViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "k">
+            </PersistentString>
+            <PersistentString
+               value = "z.replacingOccurrences(of: &quot;20%&quot;, with: &quot; &quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LobbyViewController.findMatches():LobbyViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result.first">
+            </PersistentString>
+            <PersistentString
+               value = "matches.isEmpty">
+            </PersistentString>
+            <PersistentString
+               value = "for (index, match) in matches.enumerated()">
+            </PersistentString>
+            <PersistentString
+               value = "matches == nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MeetingViewController.connect():MeetingViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.username">
+            </PersistentString>
+            <PersistentString
+               value = "self.roomName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
